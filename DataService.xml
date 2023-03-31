@@ -1,0 +1,9 @@
+<application>
+  <component name="DataService">
+    <option name="modeDefault" value="false" />
+    <option name="modeEasy" value="true" />
+    <option name="module" value="{&quot;logicName&quot;:&quot;VM&quot;,&quot;viewName&quot;:&quot;Page&quot;,&quot;viewFileName&quot;:&quot;Page&quot;,&quot;stateName&quot;:&quot;State&quot;}" />
+    <option name="function" value="{&quot;useFolder&quot;:false,&quot;usePrefix&quot;:true,&quot;isPageView&quot;:false,&quot;autoDispose&quot;:false,&quot;addLifecycle&quot;:false,&quot;addBinding&quot;:true,&quot;lintNorm&quot;:true,&quot;funTabIndex&quot;:0}" />
+    <option name="templatePage" value="{&quot;logic&quot;:&quot;VM&quot;,&quot;view&quot;:&quot;Page&quot;,&quot;viewFile&quot;:&quot;Page&quot;,&quot;state&quot;:&quot;State&quot;,&quot;selected&quot;:true}" />
+  </component>
+</application>

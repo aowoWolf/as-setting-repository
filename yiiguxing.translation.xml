@@ -1,0 +1,112 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="on Drawer Slide" />
+      <item value="buried" />
+      <item value="track Param List" />
+      <item value="content Padding Left" />
+      <item value="card Prevent Corner Overlap" />
+      <item value="game Over" />
+      <item value="UNIFIED TEST PLATFORM" />
+      <item value="is Confidential" />
+      <item value="TOUCH SLOP SENSITIVITY" />
+      <item value="pass Touch Through" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="6" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669103139252" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="1c86340119331a92" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1680249491041" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="AUTO" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="1c86340119331a92" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="791" />
+    <option name="newTranslationDialogY" value="450" />
+    <histories>
+      <item value="truncated" />
+      <item value="Upload File Operate" />
+      <item value="change Author" />
+      <item value="Hight" />
+      <item value="If this property is null then [CardTheme.clipBehavior] of [ThemeData.cardTheme] is used. If that's null then the behavior will be [Clip.none]." />
+      <item value="If this property is null then [CardTheme.clipBehavior] of" />
+      <item value="[PositionedDirectional], which adapts to the ambient [Directionality]." />
+      <item value="Place the free space evenly between the children as well as before and after the first and last child. spaceEvenly," />
+      <item value="Place the free space evenly between the children as well as half of that space before and after the first and last child. spaceAround, Place the free space evenly between the children as well as before and after the first and last child." />
+      <item value="cross Axis Alignment" />
+      <item value="thousands" />
+      <item value="tenthousands" />
+      <item value="The member 'viewModel' can only be used within instance members of subclasses of 'package:lottery_fluttercoremvvmbase_view.dart'" />
+      <item value="chunk" />
+      <item value="is Microsecond" />
+      <item value="Expires" />
+      <item value="Anonymous access is forbidden for this operation." />
+      <item value="did Exceed Max Lines" />
+      <item value="_is Expansion" />
+      <item value="milliseconds Since Epoch" />
+      <item value="Multipart File" />
+      <item value="Activate Project Tool Window" />
+      <item value="constant identifier names" />
+      <item value="mounted" />
+      <item value="Usually, this means that the Expanded widget has the wrong ancestor RenderObjectWidget. Typically, Expanded widgets are placed directly inside Flex widgets." />
+      <item value="defunct" />
+      <item value="setState() called after dispose(): _CommunityTrendsItemWidgetState2ee4d(lifecycle state: defunct, not mounted) This error happens if you call setState() on a State object for a widget that no longer appears in the widget tree (e.g., whose parent widget no longer includes the widget in its build). This error can occur when code calls setState() from a timer or an animation callback. The preferred solution is to cancel the timer or stop listening to the animation in the dispose() callback. Another solution is to check the &quot;mounted&quot; property of this object before calling setState() to ensure the object is still in the tree. This error might indicate a memory leak if setState() is being called because another object is retaining a reference to this State object after it has been removed from the tree. To avoid memory leaks, consider breaking the reference to this object during dispose()." />
+      <item value="开奖记录" />
+      <item value="评论" />
+      <item value="资讯" />
+      <item value="社区" />
+      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
+      <item value="The relevant error-causing widget was: EasyRefresh EasyRefresh:file:D:Code_proSiLing_____Pro" />
+      <item value="The relevant error-causing widget was: EasyRefresh EasyRefresh" />
+      <item value="Row" />
+      <item value="Column" />
+      <item value="praise All" />
+      <item value="动态列表" />
+      <item value="The tab's bounds are only as wide as the (centered) tab widget itself. This value is used to align the tab's label, typically a [Tab] widget's text or icon, with the selected tab indicator." />
+      <item value="The tab indicator's bounds are as wide as the space occupied by the tab in the tab bar: from the right edge of the previous tab to the left edge of the next tab." />
+      <item value="Defines how the bounds of the selected tab indicator are computed. See also: [TabBar], which displays a row of tabs. [TabBarView], which displays a widget for the currently selected tab. [TabBar.indicator], which defines the appearance of the selected tab indicator relative to the tab's bounds." />
+      <item value="symmetric" />
+      <item value="Arguments of a constant creation must be constant expressions. (Documentation) Try making the argument a valid constant, or use 'new' to call the constructor." />
+      <item value="A value of type 'Null' can't be assigned to a parameter of type 'Widget Function()' in a const constructor. (Documentation)" />
+      <item value="Try making the private type public, or making the API that uses the private type also be private" />
+      <item value="The property 'isSubscribe' can't be unconditionally accessed because the receiver can be 'null'." />
+      <item value="valid Page State" />
+      <item value="origin" />
+      <item value="on Sale List" />
+      <item value="Statistic" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="178" />
+        <entry key="GERMAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="TURKISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

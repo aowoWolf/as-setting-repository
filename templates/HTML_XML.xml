@@ -1,0 +1,8 @@
+<templateSet group="HTML/XML">
+  <template name="edfo" value="&lt;!--&lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;$DESC$&quot;&gt;--&gt;&#10;$END$&#10;&lt;!--&lt;/editor-fold&gt;--&gt;&#10;" description="code block description" toReformat="true" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="Stand" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
