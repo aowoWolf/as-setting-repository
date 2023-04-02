@@ -4,7 +4,7 @@
     <property name="created">2022-06-24T23:42:52</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2023-03-14T14:54:04</property>
+    <property name="modified">2023-04-02T10:06:30</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -456,7 +456,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="efaa8e" />
@@ -1284,7 +1284,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="505868" />
+        <option name="BACKGROUND" value="3f4645" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
@@ -1294,7 +1294,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="4c5d64" />
+        <option name="BACKGROUND" value="364649" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -1304,7 +1304,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="555f61" />
+        <option name="BACKGROUND" value="3f3d52" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -1314,7 +1314,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="5b5a5f" />
+        <option name="BACKGROUND" value="324551" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -1349,7 +1349,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="4c3038" />
+        <option name="BACKGROUND" value="48313a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR_CUSTOM">
