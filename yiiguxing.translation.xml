@@ -47,6 +47,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Color Swatch" />
       <item value="To omit the border entirely, set the [style] to [BorderStyle.none]." />
       <item value="dot Primary Color" />
       <item value="truncated" />
@@ -96,12 +97,11 @@
       <item value="Try making the private type public, or making the API that uses the private type also be private" />
       <item value="The property 'isSubscribe' can't be unconditionally accessed because the receiver can be 'null'." />
       <item value="valid Page State" />
-      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="181" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
