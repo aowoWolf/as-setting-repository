@@ -47,6 +47,11 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Linearly interpolate between two [MaterialStateProperty]s." />
+      <item value="lerp" />
+      <item value="Material State Property" />
+      <item value="splash Radius" />
+      <item value="thumb Color" />
       <item value="Color Swatch" />
       <item value="To omit the border entirely, set the [style] to [BorderStyle.none]." />
       <item value="dot Primary Color" />
@@ -92,17 +97,13 @@
       <item value="The tab indicator's bounds are as wide as the space occupied by the tab in the tab bar: from the right edge of the previous tab to the left edge of the next tab." />
       <item value="Defines how the bounds of the selected tab indicator are computed. See also: [TabBar], which displays a row of tabs. [TabBarView], which displays a widget for the currently selected tab. [TabBar.indicator], which defines the appearance of the selected tab indicator relative to the tab's bounds." />
       <item value="symmetric" />
-      <item value="Arguments of a constant creation must be constant expressions. (Documentation) Try making the argument a valid constant, or use 'new' to call the constructor." />
-      <item value="A value of type 'Null' can't be assigned to a parameter of type 'Widget Function()' in a const constructor. (Documentation)" />
-      <item value="Try making the private type public, or making the API that uses the private type also be private" />
-      <item value="The property 'isSubscribe' can't be unconditionally accessed because the receiver can be 'null'." />
-      <item value="valid Page State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="185" />
         <entry key="GERMAN" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="TURKISH" value="1" />
