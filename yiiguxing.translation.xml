@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680249491041" />
+    <option name="lastTrimTime" value="1680771957629" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -47,6 +47,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Edge Insets Geometry.infinity" />
       <item value="The flex factor to use for this child." />
       <item value="Shrinks the tap target size to the minimum provided by the Material specification." />
       <item value="Expands the minimum tap target size to 48px by 48px. This is the default value of [ThemeData.materialTapTargetSize] and the recommended size to conform to Android accessibility scanner recommendations." />
@@ -96,12 +97,11 @@
       <item value="Row" />
       <item value="Column" />
       <item value="praise All" />
-      <item value="动态列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="190" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
