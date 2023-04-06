@@ -47,13 +47,13 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="lerp" />
       <item value="Edge Insets Geometry.infinity" />
       <item value="The flex factor to use for this child." />
       <item value="Shrinks the tap target size to the minimum provided by the Material specification." />
       <item value="Expands the minimum tap target size to 48px by 48px. This is the default value of [ThemeData.materialTapTargetSize] and the recommended size to conform to Android accessibility scanner recommendations." />
       <item value="Expands the minimum tap target size to 48px by 48px. This is the default value of [ThemeData.materialTapTargetSize] and the recommended size to conform to Android accessibility scanner recommendations. padded, Shrinks the tap target size to the minimum provided by the Material specification. shrinkWrap," />
       <item value="Linearly interpolate between two [MaterialStateProperty]s." />
-      <item value="lerp" />
       <item value="Material State Property" />
       <item value="splash Radius" />
       <item value="thumb Color" />
@@ -100,10 +100,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
+        <entry key="CHINESE" value="196" />
         <entry key="ENGLISH" value="190" />
         <entry key="GERMAN" value="1" />
-        <entry key="HUNGARIAN" value="1" />
+        <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="TURKISH" value="1" />
