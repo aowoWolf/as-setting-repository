@@ -43,10 +43,33 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="450" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="simplify" />
+      <item value="pending" />
+      <item value="待定" />
+      <item value="取消" />
+      <item value="Cut At Waist" />
+      <item value="腰斩" />
+      <item value="interrupt" />
+      <item value="中断" />
+      <item value="defer" />
+      <item value="推迟" />
+      <item value="Complete Game" />
+      <item value="完赛" />
+      <item value="penalty shoot-out" />
+      <item value="点球大战" />
+      <item value="Soccer" />
+      <item value="加时赛" />
+      <item value="Second Half" />
+      <item value="下半场" />
+      <item value="midfield" />
+      <item value="中场" />
+      <item value="上半场" />
+      <item value="未开赛" />
       <item value="lerp" />
       <item value="Edge Insets Geometry.infinity" />
       <item value="The flex factor to use for this child." />
@@ -75,33 +98,11 @@
       <item value="The member 'viewModel' can only be used within instance members of subclasses of 'package:lottery_fluttercoremvvmbase_view.dart'" />
       <item value="chunk" />
       <item value="is Microsecond" />
-      <item value="Expires" />
-      <item value="Anonymous access is forbidden for this operation." />
-      <item value="did Exceed Max Lines" />
-      <item value="_is Expansion" />
-      <item value="milliseconds Since Epoch" />
-      <item value="Multipart File" />
-      <item value="Activate Project Tool Window" />
-      <item value="constant identifier names" />
-      <item value="mounted" />
-      <item value="Usually, this means that the Expanded widget has the wrong ancestor RenderObjectWidget. Typically, Expanded widgets are placed directly inside Flex widgets." />
-      <item value="defunct" />
-      <item value="setState() called after dispose(): _CommunityTrendsItemWidgetState2ee4d(lifecycle state: defunct, not mounted) This error happens if you call setState() on a State object for a widget that no longer appears in the widget tree (e.g., whose parent widget no longer includes the widget in its build). This error can occur when code calls setState() from a timer or an animation callback. The preferred solution is to cancel the timer or stop listening to the animation in the dispose() callback. Another solution is to check the &quot;mounted&quot; property of this object before calling setState() to ensure the object is still in the tree. This error might indicate a memory leak if setState() is being called because another object is retaining a reference to this State object after it has been removed from the tree. To avoid memory leaks, consider breaking the reference to this object during dispose()." />
-      <item value="开奖记录" />
-      <item value="评论" />
-      <item value="资讯" />
-      <item value="社区" />
-      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
-      <item value="The relevant error-causing widget was: EasyRefresh EasyRefresh:file:D:Code_proSiLing_____Pro" />
-      <item value="The relevant error-causing widget was: EasyRefresh EasyRefresh" />
-      <item value="Row" />
-      <item value="Column" />
-      <item value="praise All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="213" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
