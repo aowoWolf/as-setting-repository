@@ -48,6 +48,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="uni" />
+      <item value="simplify Path" />
       <item value="Match Winner" />
       <item value="simplify" />
       <item value="pending" />
@@ -96,17 +98,16 @@
       <item value="cross Axis Alignment" />
       <item value="thousands" />
       <item value="tenthousands" />
-      <item value="The member 'viewModel' can only be used within instance members of subclasses of 'package:lottery_fluttercoremvvmbase_view.dart'" />
-      <item value="chunk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="215" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
