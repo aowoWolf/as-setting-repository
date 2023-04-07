@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Match Winner" />
       <item value="simplify" />
       <item value="pending" />
       <item value="待定" />
@@ -97,12 +98,11 @@
       <item value="tenthousands" />
       <item value="The member 'viewModel' can only be used within instance members of subclasses of 'package:lottery_fluttercoremvvmbase_view.dart'" />
       <item value="chunk" />
-      <item value="is Microsecond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="214" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
