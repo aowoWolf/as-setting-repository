@@ -48,6 +48,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Own" />
+      <item value="乌龙球" />
+      <item value="进球" />
+      <item value="Incident" />
+      <item value="Goal Incident" />
       <item value="Penalty" />
       <item value="AET" />
       <item value="previous Index" />
@@ -93,16 +98,11 @@
       <item value="Color Swatch" />
       <item value="To omit the border entirely, set the [style] to [BorderStyle.none]." />
       <item value="dot Primary Color" />
-      <item value="truncated" />
-      <item value="Upload File Operate" />
-      <item value="change Author" />
-      <item value="Hight" />
-      <item value="If this property is null then [CardTheme.clipBehavior] of [ThemeData.cardTheme] is used. If that's null then the behavior will be [Clip.none]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="226" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
