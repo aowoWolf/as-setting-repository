@@ -48,6 +48,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="floor" />
+      <item value="ceil" />
       <item value="force Hide Card" />
       <item value="比赛比分" />
       <item value="uni" />
@@ -96,13 +98,11 @@
       <item value="If this property is null then [CardTheme.clipBehavior] of" />
       <item value="[PositionedDirectional], which adapts to the ambient [Directionality]." />
       <item value="Place the free space evenly between the children as well as before and after the first and last child. spaceEvenly," />
-      <item value="Place the free space evenly between the children as well as half of that space before and after the first and last child. spaceAround, Place the free space evenly between the children as well as before and after the first and last child." />
-      <item value="cross Axis Alignment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="219" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
