@@ -4,7 +4,7 @@
     <option name="alwaysOnTop" value="true" />
     <option name="position" value="true" />
     <option name="positionHeight" value="1080" />
-    <option name="positionX" value="1920" />
+    <option name="positionX" value="-500" />
     <option name="positionY" value="0" />
     <option name="scrcpyPath" value="D:\Program Files\scrcpy-win64-v1.24" />
     <option name="showTouches" value="true" />
