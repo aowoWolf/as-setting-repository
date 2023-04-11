@@ -4,7 +4,7 @@
     <property name="created">2023-04-07T14:21:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-04-07T14:23:08</property>
+    <property name="modified">2023-04-11T15:52:58</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1177,27 +1177,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="323337" />
+        <option name="BACKGROUND" value="656739" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="29333b" />
+        <option name="BACKGROUND" value="3e674c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="322a44" />
+        <option name="BACKGROUND" value="654073" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="253243" />
+        <option name="BACKGROUND" value="30616d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3e232f" />
+        <option name="BACKGROUND" value="4f222b" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

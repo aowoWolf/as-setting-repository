@@ -3,8 +3,9 @@
     <property name="created">2023-04-07T21:43:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-04-07T21:48:59</property>
+    <property name="modified">2023-04-11T15:52:58</property>
     <property name="originalScheme">Gruvbox Light Soft</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="b8bb26" />
@@ -583,27 +584,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f4e8ad" />
+        <option name="BACKGROUND" value="f6ee92" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="e4e8b5" />
+        <option name="BACKGROUND" value="cbeea7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f4d9c4" />
+        <option name="BACKGROUND" value="f6c2d3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="dee6c2" />
+        <option name="BACKGROUND" value="bae7cc" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d0aa8d" />
+        <option name="BACKGROUND" value="bc8771" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

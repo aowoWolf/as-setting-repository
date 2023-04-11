@@ -4,7 +4,7 @@
     <property name="created">2023-04-07T14:21:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-04-07T14:23:08</property>
+    <property name="modified">2023-04-11T15:52:58</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1161,27 +1161,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbe4" />
+        <option name="BACKGROUND" value="fcfcbb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ecfbec" />
+        <option name="BACKGROUND" value="d1fcd1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbecfb" />
+        <option name="BACKGROUND" value="fcd1fc" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e6f9f9" />
+        <option name="BACKGROUND" value="c0f6f6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d6b9b9" />
+        <option name="BACKGROUND" value="c09292" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

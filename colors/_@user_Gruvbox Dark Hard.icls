@@ -3,7 +3,7 @@
     <property name="created">2023-04-07T21:43:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-04-07T21:48:59</property>
+    <property name="modified">2023-04-11T15:52:58</property>
     <property name="originalScheme">Gruvbox Dark Hard</property>
   </metaInfo>
   <colors>
@@ -595,27 +595,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2d3023" />
+        <option name="BACKGROUND" value="62642a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="243028" />
+        <option name="BACKGROUND" value="3b643e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2d2731" />
+        <option name="BACKGROUND" value="623d65" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="212e2f" />
+        <option name="BACKGROUND" value="2c5e5f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3b2021" />
+        <option name="BACKGROUND" value="4c2021" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

@@ -4,7 +4,7 @@
     <property name="created">2023-04-07T14:21:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-04-07T14:23:08</property>
+    <property name="modified">2023-04-11T15:52:58</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -846,27 +846,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="ffffe8" />
+        <option name="BACKGROUND" value="ffffbe" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fff0" />
+        <option name="BACKGROUND" value="d3ffd3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff0ff" />
+        <option name="BACKGROUND" value="ffd3ff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="eafdfd" />
+        <option name="BACKGROUND" value="c3f8f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d9bcbc" />
+        <option name="BACKGROUND" value="c29494" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
