@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="time Stamp" />
       <item value="Own" />
       <item value="乌龙球" />
       <item value="进球" />
@@ -97,12 +98,11 @@
       <item value="thumb Color" />
       <item value="Color Swatch" />
       <item value="To omit the border entirely, set the [style] to [BorderStyle.none]." />
-      <item value="dot Primary Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="227" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
