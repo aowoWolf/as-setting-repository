@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="estimate Max Scroll Offset" />
       <item value="Returns true if and only if this integer is even." />
       <item value="Even" />
       <item value=".animation Curve" />
@@ -97,12 +98,11 @@
       <item value="Expands the minimum tap target size to 48px by 48px. This is the default value of [ThemeData.materialTapTargetSize] and the recommended size to conform to Android accessibility scanner recommendations." />
       <item value="Expands the minimum tap target size to 48px by 48px. This is the default value of [ThemeData.materialTapTargetSize] and the recommended size to conform to Android accessibility scanner recommendations. padded, Shrinks the tap target size to the minimum provided by the Material specification. shrinkWrap," />
       <item value="Linearly interpolate between two [MaterialStateProperty]s." />
-      <item value="Material State Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="233" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
