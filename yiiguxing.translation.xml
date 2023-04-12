@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="has Draw" />
       <item value="hit Reward" />
       <item value="dont recommend use this" />
       <item value="to Signed" />
@@ -97,12 +98,11 @@
       <item value="中场" />
       <item value="上半场" />
       <item value="未开赛" />
-      <item value="lerp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="241" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
