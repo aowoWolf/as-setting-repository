@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="hit Reward" />
       <item value="dont recommend use this" />
       <item value="to Signed" />
       <item value="Returns the modular multiplicative inverse of this integer" />
@@ -97,12 +98,11 @@
       <item value="上半场" />
       <item value="未开赛" />
       <item value="lerp" />
-      <item value="Edge Insets Geometry.infinity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="240" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
