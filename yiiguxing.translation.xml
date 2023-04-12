@@ -48,6 +48,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="to Signed" />
+      <item value="Returns the modular multiplicative inverse of this integer" />
       <item value="floor" />
       <item value="Returns true if and only if this integer is odd." />
       <item value="semantic Index Callback" />
@@ -96,13 +98,11 @@
       <item value="lerp" />
       <item value="Edge Insets Geometry.infinity" />
       <item value="The flex factor to use for this child." />
-      <item value="Shrinks the tap target size to the minimum provided by the Material specification." />
-      <item value="Expands the minimum tap target size to 48px by 48px. This is the default value of [ThemeData.materialTapTargetSize] and the recommended size to conform to Android accessibility scanner recommendations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="238" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
