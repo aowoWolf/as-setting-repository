@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Digitial" />
       <item value="compare Odd" />
       <item value="Odds Runtime" />
       <item value="sale Scheme Of Expert" />
@@ -97,15 +98,14 @@
       <item value="加时赛" />
       <item value="Second Half" />
       <item value="下半场" />
-      <item value="midfield" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
+        <entry key="CHINESE" value="253" />
         <entry key="ENGLISH" value="244" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
