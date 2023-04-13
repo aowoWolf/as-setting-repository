@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bus Station" />
       <item value="One Shot" />
       <item value="Digitial" />
       <item value="compare Odd" />
@@ -97,12 +98,11 @@
       <item value="点球大战" />
       <item value="Soccer" />
       <item value="加时赛" />
-      <item value="Second Half" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="246" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="2" />
