@@ -48,6 +48,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="has Related" />
+      <item value="no Itersection List" />
       <item value="previous" />
       <item value="_previous Index" />
       <item value="Indicates if the switch is currently loading. If set to [null], the switch is loading automatically when a [Future] is returned by [onChanged] or [onTap]." />
@@ -96,13 +98,11 @@
       <item value="Cut At Waist" />
       <item value="腰斩" />
       <item value="interrupt" />
-      <item value="中断" />
-      <item value="defer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="255" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="2" />
