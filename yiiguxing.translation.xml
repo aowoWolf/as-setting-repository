@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Sroll Page" />
       <item value="Annotated Region" />
       <item value="reversed" />
       <item value="Bus Station" />
@@ -97,12 +98,11 @@
       <item value="Complete Game" />
       <item value="完赛" />
       <item value="penalty shoot-out" />
-      <item value="点球大战" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="249" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="2" />
