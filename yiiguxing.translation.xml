@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Indicates if the switch is currently loading. If set to [null], the switch is loading automatically when a [Future] is returned by [onChanged] or [onTap]." />
       <item value="calendar Time Stamp" />
       <item value="is Sroll Page" />
       <item value="Annotated Region" />
@@ -97,12 +98,11 @@
       <item value="defer" />
       <item value="推迟" />
       <item value="Complete Game" />
-      <item value="完赛" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="251" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="2" />
