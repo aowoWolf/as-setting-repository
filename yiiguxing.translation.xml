@@ -48,6 +48,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="curve" />
+      <item value="Cubic" />
+      <item value="Experimental method" />
       <item value="follow Up Work" />
       <item value="vaild Login" />
       <item value="enable Feedback" />
@@ -95,14 +98,11 @@
       <item value="simplify Path" />
       <item value="Match Winner" />
       <item value="simplify" />
-      <item value="pending" />
-      <item value="待定" />
-      <item value="取消" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="260" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
