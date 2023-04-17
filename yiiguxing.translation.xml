@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="handle Tab Controller Animation Tick" />
       <item value="Build scheduled during frame." />
       <item value="curve" />
       <item value="Cubic" />
@@ -97,12 +98,11 @@
       <item value="比赛比分" />
       <item value="uni" />
       <item value="simplify Path" />
-      <item value="Match Winner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="262" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
