@@ -4,9 +4,9 @@
     <option name="borderless" value="true" />
     <option name="position" value="true" />
     <option name="positionHeight" value="1080" />
-    <option name="positionX" value="-500" />
+    <option name="positionX" value="1980" />
     <option name="positionY" value="0" />
-    <option name="scrcpyPath" value="D:\Program Files\scrcpy-win64-v1.24" />
+    <option name="scrcpyPath" value="C:\Program Files\scrcpy-win64-v1.24" />
     <option name="showTouches" value="true" />
     <option name="windowTitle" value="flutter demo2023-3-28" />
   </component>
