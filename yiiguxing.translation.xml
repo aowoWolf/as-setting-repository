@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681207138940" />
+    <option name="lastTrimTime" value="1681700395432" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="enable Feedback" />
       <item value="has Related" />
       <item value="no Itersection List" />
       <item value="previous" />
@@ -97,12 +98,11 @@
       <item value="取消" />
       <item value="Cut At Waist" />
       <item value="腰斩" />
-      <item value="interrupt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="256" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="2" />
