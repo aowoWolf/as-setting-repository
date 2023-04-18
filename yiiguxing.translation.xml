@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="offset" />
       <item value="actual Reward" />
       <item value="format Award" />
       <item value="handle Tab Controller Animation Tick" />
@@ -97,12 +98,11 @@
       <item value="previous Index" />
       <item value="ceil" />
       <item value="force Hide Card" />
-      <item value="比赛比分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="265" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
