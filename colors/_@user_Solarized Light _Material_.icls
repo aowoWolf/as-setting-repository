@@ -4,7 +4,7 @@
     <property name="created">2023-04-07T14:21:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-04-19T17:35:19</property>
+    <property name="modified">2023-04-11T15:52:58</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -182,8 +182,8 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="b58800" />
@@ -228,9 +228,9 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.INTERNAL_COMMAND" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -1279,35 +1279,25 @@
         <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="e7e6e6" />
+        <option name="BACKGROUND" value="fef9ab" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="e0f1de" />
+        <option name="BACKGROUND" value="d2f9c1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f2f4d9" />
+        <option name="BACKGROUND" value="fecded" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="feebd5" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_5">
-      <value>
-        <option name="BACKGROUND" value="feddcf" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_6">
-      <value>
-        <option name="BACKGROUND" value="fed1c9" />
+        <option name="BACKGROUND" value="c1f3e6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1356,7 +1346,7 @@
         <option name="BACKGROUND" value="cac5b6" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -4121,8 +4111,8 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -4428,7 +4418,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="268bd2" />
