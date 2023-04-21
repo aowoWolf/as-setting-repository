@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="coupon Count" />
       <item value="center Slice" />
       <item value="coupon" />
       <item value="truncate" />
@@ -97,12 +98,11 @@
       <item value="time Stamp" />
       <item value="Own" />
       <item value="乌龙球" />
-      <item value="进球" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="273" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
