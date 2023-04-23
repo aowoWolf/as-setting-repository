@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681700395432" />
+    <option name="lastTrimTime" value="1682231234223" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Semantics" />
       <item value="opacity" />
       <item value="coupon Count" />
       <item value="center Slice" />
@@ -97,12 +98,11 @@
       <item value=".animation Curve" />
       <item value="translate" />
       <item value="time Stamp" />
-      <item value="Own" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="285" />
+        <entry key="ENGLISH" value="275" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
