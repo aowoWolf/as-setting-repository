@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="show Option Arrow" />
       <item value="stretch" />
       <item value="Persistent" />
       <item value="Sliver" />
@@ -97,12 +98,11 @@
       <item value="floor" />
       <item value="Returns true if and only if this integer is odd." />
       <item value="semantic Index Callback" />
-      <item value="estimate Max Scroll Offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="282" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
