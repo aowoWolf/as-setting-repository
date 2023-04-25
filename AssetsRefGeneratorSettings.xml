@@ -1,6 +1,5 @@
 <application>
   <component name="com.shenyong.flutter.settings.PluginSettingsState">
-    <option name="resFilePath" value="lib/gen_a/a.dart" />
-    <option name="resClsName" value="A" />
+    <option name="resFilePath" value="lib/gen_a/hello_res.dart" />
   </component>
 </application>
