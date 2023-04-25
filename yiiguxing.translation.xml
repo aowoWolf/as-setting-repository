@@ -48,6 +48,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="format Money" />
+      <item value="Postfix" />
       <item value="is Abo" />
       <item value="is Even" />
       <item value="adept Lotteries" />
@@ -96,13 +98,11 @@
       <item value="has Draw" />
       <item value="hit Reward" />
       <item value="dont recommend use this" />
-      <item value="to Signed" />
-      <item value="Returns the modular multiplicative inverse of this integer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="287" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
