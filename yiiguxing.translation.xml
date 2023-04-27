@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="with Opacity" />
       <item value="put If Absent" />
       <item value="format Money" />
       <item value="Postfix" />
@@ -97,12 +98,11 @@
       <item value="Odds Runtime" />
       <item value="sale Scheme Of Expert" />
       <item value="has Draw" />
-      <item value="hit Reward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="289" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
