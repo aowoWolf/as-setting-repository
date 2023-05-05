@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682231234223" />
+    <option name="lastTrimTime" value="1683254265912" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="recovery catch panic" />
       <item value="absorbing" />
       <item value="text Width Basis" />
       <item value="with Opacity" />
@@ -97,12 +98,11 @@
       <item value="One Shot" />
       <item value="Digitial" />
       <item value="compare Odd" />
-      <item value="Odds Runtime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="292" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
