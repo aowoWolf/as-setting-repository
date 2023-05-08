@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="scale" />
       <item value="fit Width" />
       <item value="Whether the constraint is expressed in a consistent manner." />
       <item value="Whether there is exactly one size possible given these constraints." />
@@ -97,12 +98,11 @@
       <item value="previous" />
       <item value="_previous Index" />
       <item value="Indicates if the switch is currently loading. If set to [null], the switch is loading automatically when a [Future] is returned by [onChanged] or [onTap]." />
-      <item value="calendar Time Stamp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="300" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
