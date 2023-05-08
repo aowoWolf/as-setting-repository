@@ -1,11 +1,15 @@
 <scheme name="_@user_Gruvbox Light Medium" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-04-07T21:43:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-04-11T15:52:58</property>
+    <property name="modified">2023-05-08T17:35:18</property>
     <property name="originalScheme">Gruvbox Light Medium</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b8bb26" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
@@ -587,22 +591,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fcf699" />
+        <option name="BACKGROUND" value="e6e3d5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="d1f6ae" />
+        <option name="BACKGROUND" value="dfeecd" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fccada" />
+        <option name="BACKGROUND" value="f1f1c9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="c0efd4" />
+        <option name="BACKGROUND" value="fde8c5" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fddabf" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="fdceb8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

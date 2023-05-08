@@ -4,6 +4,8 @@
   </action>
   <action id="ActivateProblemsViewToolWindow" />
   <action id="ChangesView.Move" />
+  <action id="EditorDecreaseFontSizeGlobal" />
+  <action id="EditorIncreaseFontSizeGlobal" />
   <action id="IntroduceTypeAlias" />
   <action id="Kotlin.RunScratch" />
   <action id="MoveEditorToOppositeTabGroup">
