@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681700395432" />
+    <option name="lastTrimTime" value="1683254265912" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,41 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="scale" />
+      <item value="fit Width" />
+      <item value="Whether the constraint is expressed in a consistent manner." />
+      <item value="Whether there is exactly one size possible given these constraints." />
+      <item value="If you need some sizing information during build to decide which widgets to build, consider using a LayoutBuilder widget, which can tell you the layout constraints at a given location in the tree. See &lt;https:api.flutter.devflutterwidgetsLayoutBuilder-class.html&gt; for more details." />
+      <item value="The size of this render object has not yet been determined because the framework is still in the process of building widgets, which means the render tree for this frame has not yet been determined. The size getter should only be called from paint callbacks or interaction event handlers (e.g. gesture callbacks)." />
+      <item value="&lt;!-- The INTERNET permission is required for development. Specifically, the Flutter tool needs it to communicate with the running application to allow setting breakpoints, to provide hot reload, etc." />
+      <item value="modify Count" />
+      <item value="recovery catch panic" />
+      <item value="absorbing" />
+      <item value="text Width Basis" />
+      <item value="with Opacity" />
+      <item value="put If Absent" />
+      <item value="format Money" />
+      <item value="Postfix" />
+      <item value="is Abo" />
+      <item value="is Even" />
+      <item value="adept Lotteries" />
+      <item value="show Option Arrow" />
+      <item value="stretch" />
+      <item value="Persistent" />
+      <item value="Sliver" />
+      <item value="Sliver Persistent Header" />
+      <item value="Creates a widget that transforms its child." />
+      <item value="Semantics" />
+      <item value="opacity" />
+      <item value="coupon Count" />
+      <item value="center Slice" />
+      <item value="coupon" />
+      <item value="truncate" />
+      <item value="to String As Exponential" />
+      <item value="fraction Digits" />
+      <item value="growable" />
+      <item value="unmodifiable" />
+      <item value="literal" />
       <item value="actual Reward" />
       <item value="format Award" />
       <item value="handle Tab Controller Animation Tick" />
@@ -63,46 +98,11 @@
       <item value="previous" />
       <item value="_previous Index" />
       <item value="Indicates if the switch is currently loading. If set to [null], the switch is loading automatically when a [Future] is returned by [onChanged] or [onTap]." />
-      <item value="calendar Time Stamp" />
-      <item value="is Sroll Page" />
-      <item value="Annotated Region" />
-      <item value="reversed" />
-      <item value="Bus Station" />
-      <item value="One Shot" />
-      <item value="Digitial" />
-      <item value="compare Odd" />
-      <item value="Odds Runtime" />
-      <item value="sale Scheme Of Expert" />
-      <item value="has Draw" />
-      <item value="hit Reward" />
-      <item value="dont recommend use this" />
-      <item value="to Signed" />
-      <item value="Returns the modular multiplicative inverse of this integer" />
-      <item value="floor" />
-      <item value="Returns true if and only if this integer is odd." />
-      <item value="semantic Index Callback" />
-      <item value="estimate Max Scroll Offset" />
-      <item value="Returns true if and only if this integer is even." />
-      <item value="Even" />
-      <item value=".animation Curve" />
-      <item value="translate" />
-      <item value="time Stamp" />
-      <item value="Own" />
-      <item value="乌龙球" />
-      <item value="进球" />
-      <item value="Incident" />
-      <item value="Goal Incident" />
-      <item value="Penalty" />
-      <item value="AET" />
-      <item value="previous Index" />
-      <item value="ceil" />
-      <item value="force Hide Card" />
-      <item value="比赛比分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="300" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
