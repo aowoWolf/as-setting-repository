@@ -43,11 +43,12 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="576" />
-    <option name="newTranslationDialogX" value="791" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogX" value="485" />
+    <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Overload resolution ambiguity. All these functions match." />
       <item value="scale" />
       <item value="fit Width" />
       <item value="Whether the constraint is expressed in a consistent manner." />
@@ -97,7 +98,6 @@
       <item value="no Itersection List" />
       <item value="previous" />
       <item value="_previous Index" />
-      <item value="Indicates if the switch is currently loading. If set to [null], the switch is loading automatically when a [Future] is returned by [onChanged] or [onTap]." />
     </histories>
     <option name="languageScores">
       <map>
