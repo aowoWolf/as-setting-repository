@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683254265912" />
+    <option name="lastTrimTime" value="1683803783653" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="color translate" />
       <item value="Overload resolution ambiguity. All these functions match." />
       <item value="scale" />
       <item value="fit Width" />
@@ -97,12 +98,11 @@
       <item value="has Related" />
       <item value="no Itersection List" />
       <item value="previous" />
-      <item value="_previous Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="301" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
