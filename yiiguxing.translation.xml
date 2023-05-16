@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683803783653" />
+    <option name="lastTrimTime" value="1684236418622" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="has Pin Time Divider" />
       <item value="loop Query" />
       <item value="Multiplies this value by the other value." />
       <item value="Returns this value incremented by one." />
@@ -97,12 +98,11 @@
       <item value="fraction Digits" />
       <item value="growable" />
       <item value="unmodifiable" />
-      <item value="literal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="315" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
