@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="loop Query" />
       <item value="Multiplies this value by the other value." />
       <item value="Returns this value incremented by one." />
       <item value="rem" />
@@ -97,12 +98,11 @@
       <item value="growable" />
       <item value="unmodifiable" />
       <item value="literal" />
-      <item value="actual Reward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="314" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
