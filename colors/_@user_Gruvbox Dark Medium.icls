@@ -3,7 +3,7 @@
     <property name="created">2023-04-07T21:43:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-05-08T17:35:18</property>
+    <property name="modified">2023-05-16T13:50:34</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <colors>
@@ -58,7 +58,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
@@ -595,22 +595,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="62646f" />
+        <option name="BACKGROUND" value="6a6a2f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="5b6f68" />
+        <option name="BACKGROUND" value="436a43" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="6c7163" />
+        <option name="BACKGROUND" value="6a436a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="766960" />
+        <option name="BACKGROUND" value="346464" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -703,7 +703,7 @@
         <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
+    <option name="List/map to object conversion" baseAttributes="" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
@@ -1040,7 +1040,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Unresolved reference access" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="fabd2f" />
