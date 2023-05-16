@@ -96,12 +96,5 @@
       <option name="showLibraryStackFrames" value="false" />
     </data-views>
     <general />
-    <debuggers>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <nt-symbol-settings />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
