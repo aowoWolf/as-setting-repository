@@ -14,7 +14,7 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.dart</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
