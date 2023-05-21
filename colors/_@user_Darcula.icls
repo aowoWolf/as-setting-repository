@@ -3,13 +3,13 @@
     <property name="created">2022-06-24T23:42:52</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2023-05-08T17:35:18</property>
+    <property name="modified">2023-05-21T17:01:15</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="646670" />
+        <option name="BACKGROUND" value="6c6c31" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
@@ -19,7 +19,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="5d706a" />
+        <option name="BACKGROUND" value="456c45" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -29,7 +29,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="6e7365" />
+        <option name="BACKGROUND" value="6c456c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -39,7 +39,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="786b62" />
+        <option name="BACKGROUND" value="366666" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
