@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683803783653" />
+    <option name="lastTrimTime" value="1684236418622" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,22 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="to Subscribe" />
+      <item value="event on subscribtion" />
+      <item value="has Pin Time Divider" />
+      <item value="loop Query" />
+      <item value="Multiplies this value by the other value." />
+      <item value="Returns this value incremented by one." />
+      <item value="rem" />
+      <item value="div" />
+      <item value="comparison" />
+      <item value="insert Data Once" />
+      <item value="wee" />
+      <item value="is Positive" />
+      <item value="render" />
+      <item value="minus Days" />
+      <item value="Returns a copy of this datetime with the time set to the start of the day. &lt;p&gt; The time will normally be midnight, as that is the earliest time on any given day. However, in some time zones when Daylight Savings Time starts, there is no midnight because time jumps from 11:59 to 01:00. This method handles that situation by returning 01:00 on that date. &lt;p&gt; This instance is immutable and unaffected by this method call. @return a copy of this datetime with the time set to the start of the day, not null" />
+      <item value="with Time At Start Of Day" />
       <item value="color translate" />
       <item value="Overload resolution ambiguity. All these functions match." />
       <item value="scale" />
@@ -82,27 +98,11 @@
       <item value="truncate" />
       <item value="to String As Exponential" />
       <item value="fraction Digits" />
-      <item value="growable" />
-      <item value="unmodifiable" />
-      <item value="literal" />
-      <item value="actual Reward" />
-      <item value="format Award" />
-      <item value="handle Tab Controller Animation Tick" />
-      <item value="Build scheduled during frame." />
-      <item value="curve" />
-      <item value="Cubic" />
-      <item value="Experimental method" />
-      <item value="follow Up Work" />
-      <item value="vaild Login" />
-      <item value="enable Feedback" />
-      <item value="has Related" />
-      <item value="no Itersection List" />
-      <item value="previous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="317" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
