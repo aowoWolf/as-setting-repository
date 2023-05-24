@@ -3,7 +3,7 @@
     <property name="created">2022-06-28T23:18:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2023-05-16T13:50:34</property>
+    <property name="modified">2023-05-21T17:01:15</property>
     <property name="originalScheme">Material dark-Theme</property>
   </metaInfo>
   <colors>
@@ -83,7 +83,7 @@
         <option name="FOREGROUND" value="a4f9b2" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80ffff" />
@@ -834,7 +834,7 @@
         <option name="BACKGROUND" value="494949" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b389c5" />
@@ -1794,7 +1794,7 @@
         <option name="FOREGROUND" value="ffa4a4" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f77669" />
