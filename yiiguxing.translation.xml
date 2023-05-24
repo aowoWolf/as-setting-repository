@@ -48,6 +48,8 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="range Until" />
+      <item value="rem" />
       <item value="gradle Plugin Portal" />
       <item value="Tournament Detail Activity 2" />
       <item value="is Granted Draw Overlays" />
@@ -60,7 +62,6 @@
       <item value="loop Query" />
       <item value="Multiplies this value by the other value." />
       <item value="Returns this value incremented by one." />
-      <item value="rem" />
       <item value="div" />
       <item value="comparison" />
       <item value="insert Data Once" />
@@ -97,12 +98,11 @@
       <item value="Sliver Persistent Header" />
       <item value="Creates a widget that transforms its child." />
       <item value="Semantics" />
-      <item value="opacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="326" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
