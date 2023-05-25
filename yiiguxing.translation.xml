@@ -48,6 +48,9 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Draw" />
+      <item value="Away" />
+      <item value="Away Score" />
       <item value="is Finite" />
       <item value="scheme" />
       <item value="Get the minute of hour field value." />
@@ -95,14 +98,11 @@
       <item value="is Even" />
       <item value="adept Lotteries" />
       <item value="show Option Arrow" />
-      <item value="stretch" />
-      <item value="Persistent" />
-      <item value="Sliver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="332" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
