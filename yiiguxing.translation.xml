@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684236418622" />
+    <option name="lastTrimTime" value="1684743024739" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,13 +48,21 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Get the minute of hour field value." />
+      <item value="range Until" />
+      <item value="rem" />
+      <item value="gradle Plugin Portal" />
+      <item value="Tournament Detail Activity 2" />
+      <item value="is Granted Draw Overlays" />
+      <item value="check Debug Model" />
+      <item value="is Assignable From" />
+      <item value="clerk" />
       <item value="to Subscribe" />
       <item value="event on subscribtion" />
       <item value="has Pin Time Divider" />
       <item value="loop Query" />
       <item value="Multiplies this value by the other value." />
       <item value="Returns this value incremented by one." />
-      <item value="rem" />
       <item value="div" />
       <item value="comparison" />
       <item value="insert Data Once" />
@@ -90,19 +98,11 @@
       <item value="Sliver" />
       <item value="Sliver Persistent Header" />
       <item value="Creates a widget that transforms its child." />
-      <item value="Semantics" />
-      <item value="opacity" />
-      <item value="coupon Count" />
-      <item value="center Slice" />
-      <item value="coupon" />
-      <item value="truncate" />
-      <item value="to String As Exponential" />
-      <item value="fraction Digits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="327" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
