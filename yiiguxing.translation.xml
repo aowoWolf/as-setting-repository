@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="evaluate" />
       <item value="Draw" />
       <item value="Away" />
       <item value="Away Score" />
@@ -97,12 +98,11 @@
       <item value="is Abo" />
       <item value="is Even" />
       <item value="adept Lotteries" />
-      <item value="show Option Arrow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="333" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
