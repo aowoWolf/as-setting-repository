@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684743024739" />
+    <option name="lastTrimTime" value="1686623614066" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Mixture Event Manager" />
       <item value="repositories Mode" />
       <item value="evaluate" />
       <item value="Draw" />
@@ -97,12 +98,11 @@
       <item value="format Money" />
       <item value="Postfix" />
       <item value="is Abo" />
-      <item value="is Even" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="335" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
