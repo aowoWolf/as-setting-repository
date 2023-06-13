@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684743024739" />
+    <option name="lastTrimTime" value="1686623614066" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,15 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Because wechat_assets_picker 8.5.0 requires SDK version &gt;=3.0.0 &lt;4.0.0 and no versions of wechat_assets_picker match &gt;8.5.0 &lt;9.0.0, wechat_assets_picker ^8.5.0 is forbidden. So, because kball_flutter_module depends on wechat_assets_picker ^8.5.0, version solving failed." />
+      <item value="Mixture Event Manager" />
+      <item value="repositories Mode" />
+      <item value="evaluate" />
+      <item value="Draw" />
+      <item value="Away" />
+      <item value="Away Score" />
+      <item value="is Finite" />
+      <item value="scheme" />
       <item value="Get the minute of hour field value." />
       <item value="range Until" />
       <item value="rem" />
@@ -89,20 +98,11 @@
       <item value="put If Absent" />
       <item value="format Money" />
       <item value="Postfix" />
-      <item value="is Abo" />
-      <item value="is Even" />
-      <item value="adept Lotteries" />
-      <item value="show Option Arrow" />
-      <item value="stretch" />
-      <item value="Persistent" />
-      <item value="Sliver" />
-      <item value="Sliver Persistent Header" />
-      <item value="Creates a widget that transforms its child." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="336" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
