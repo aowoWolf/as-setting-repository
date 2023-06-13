@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684236418622" />
+    <option name="lastTrimTime" value="1686623614066" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,13 +48,35 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="center Slice" />
+      <item value="opaque" />
+      <item value="business" />
+      <item value="non Virtual" />
+      <item value="Base Uni View Mixin" />
+      <item value="Because wechat_assets_picker 8.5.0 requires SDK version &gt;=3.0.0 &lt;4.0.0 and no versions of wechat_assets_picker match &gt;8.5.0 &lt;9.0.0, wechat_assets_picker ^8.5.0 is forbidden. So, because kball_flutter_module depends on wechat_assets_picker ^8.5.0, version solving failed." />
+      <item value="Mixture Event Manager" />
+      <item value="repositories Mode" />
+      <item value="evaluate" />
+      <item value="Draw" />
+      <item value="Away" />
+      <item value="Away Score" />
+      <item value="is Finite" />
+      <item value="scheme" />
+      <item value="Get the minute of hour field value." />
+      <item value="range Until" />
+      <item value="rem" />
+      <item value="gradle Plugin Portal" />
+      <item value="Tournament Detail Activity 2" />
+      <item value="is Granted Draw Overlays" />
+      <item value="check Debug Model" />
+      <item value="is Assignable From" />
+      <item value="clerk" />
       <item value="to Subscribe" />
       <item value="event on subscribtion" />
       <item value="has Pin Time Divider" />
       <item value="loop Query" />
       <item value="Multiplies this value by the other value." />
       <item value="Returns this value incremented by one." />
-      <item value="rem" />
       <item value="div" />
       <item value="comparison" />
       <item value="insert Data Once" />
@@ -76,33 +98,11 @@
       <item value="modify Count" />
       <item value="recovery catch panic" />
       <item value="absorbing" />
-      <item value="text Width Basis" />
-      <item value="with Opacity" />
-      <item value="put If Absent" />
-      <item value="format Money" />
-      <item value="Postfix" />
-      <item value="is Abo" />
-      <item value="is Even" />
-      <item value="adept Lotteries" />
-      <item value="show Option Arrow" />
-      <item value="stretch" />
-      <item value="Persistent" />
-      <item value="Sliver" />
-      <item value="Sliver Persistent Header" />
-      <item value="Creates a widget that transforms its child." />
-      <item value="Semantics" />
-      <item value="opacity" />
-      <item value="coupon Count" />
-      <item value="center Slice" />
-      <item value="coupon" />
-      <item value="truncate" />
-      <item value="to String As Exponential" />
-      <item value="fraction Digits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="341" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
