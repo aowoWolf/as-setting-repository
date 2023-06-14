@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Transfer List" />
       <item value="child Aspect Ratio" />
       <item value="center Slice" />
       <item value="opaque" />
@@ -97,12 +98,11 @@
       <item value="The size of this render object has not yet been determined because the framework is still in the process of building widgets, which means the render tree for this frame has not yet been determined. The size getter should only be called from paint callbacks or interaction event handlers (e.g. gesture callbacks)." />
       <item value="&lt;!-- The INTERNET permission is required for development. Specifically, the Flutter tool needs it to communicate with the running application to allow setting breakpoints, to provide hot reload, etc." />
       <item value="modify Count" />
-      <item value="recovery catch panic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="343" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
