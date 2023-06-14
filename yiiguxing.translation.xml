@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="EDIUM" />
       <item value="Signed" />
       <item value="已签约" />
       <item value="Cancelled" />
@@ -97,16 +98,15 @@
       <item value="render" />
       <item value="minus Days" />
       <item value="Returns a copy of this datetime with the time set to the start of the day. &lt;p&gt; The time will normally be midnight, as that is the earliest time on any given day. However, in some time zones when Daylight Savings Time starts, there is no midnight because time jumps from 11:59 to 01:00. This method handles that situation by returning 01:00 on that date. &lt;p&gt; This instance is immutable and unaffected by this method call. @return a copy of this datetime with the time set to the start of the day, not null" />
-      <item value="with Time At Start Of Day" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
+        <entry key="CHINESE" value="364" />
         <entry key="ENGLISH" value="353" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
         <entry key="ITALIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
