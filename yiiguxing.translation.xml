@@ -48,6 +48,13 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="左脚" />
+      <item value="Goal Keeper" />
+      <item value="守门员" />
+      <item value="Defender" />
+      <item value="后卫" />
+      <item value="中场" />
+      <item value="前锋" />
       <item value="EDIUM" />
       <item value="Signed" />
       <item value="已签约" />
@@ -91,18 +98,11 @@
       <item value="Multiplies this value by the other value." />
       <item value="Returns this value incremented by one." />
       <item value="div" />
-      <item value="comparison" />
-      <item value="insert Data Once" />
-      <item value="wee" />
-      <item value="is Positive" />
-      <item value="render" />
-      <item value="minus Days" />
-      <item value="Returns a copy of this datetime with the time set to the start of the day. &lt;p&gt; The time will normally be midnight, as that is the earliest time on any given day. However, in some time zones when Daylight Savings Time starts, there is no midnight because time jumps from 11:59 to 01:00. This method handles that situation by returning 01:00 on that date. &lt;p&gt; This instance is immutable and unaffected by this method call. @return a copy of this datetime with the time set to the start of the day, not null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="373" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
