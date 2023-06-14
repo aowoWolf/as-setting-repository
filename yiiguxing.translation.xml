@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="child Aspect Ratio" />
       <item value="center Slice" />
       <item value="opaque" />
       <item value="business" />
@@ -97,12 +98,11 @@
       <item value="&lt;!-- The INTERNET permission is required for development. Specifically, the Flutter tool needs it to communicate with the running application to allow setting breakpoints, to provide hot reload, etc." />
       <item value="modify Count" />
       <item value="recovery catch panic" />
-      <item value="absorbing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="342" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
