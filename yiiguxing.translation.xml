@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="riv oval" />
       <item value="Lineup Substitution Widget" />
       <item value="Lineup Sub Item" />
       <item value="Tentacled Incident" />
@@ -97,11 +98,10 @@
       <item value="range Until" />
       <item value="rem" />
       <item value="gradle Plugin Portal" />
-      <item value="Tournament Detail Activity 2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="384" />
+        <entry key="CHINESE" value="385" />
         <entry key="ENGLISH" value="373" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -110,6 +110,7 @@
         <entry key="ITALIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SLOVAK" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
