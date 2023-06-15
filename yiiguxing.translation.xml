@@ -48,6 +48,12 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Tentacled Incident" />
+      <item value="Purple Incident" />
+      <item value="Injuried" />
+      <item value="受伤" />
+      <item value="Suspended" />
+      <item value="停赛" />
       <item value="obtain Lineup" />
       <item value="obtain Line Up" />
       <item value="Conflicting declarations: value-parameter minutes: String, value-parameter minutes: String" />
@@ -92,17 +98,11 @@
       <item value="Tournament Detail Activity 2" />
       <item value="is Granted Draw Overlays" />
       <item value="check Debug Model" />
-      <item value="is Assignable From" />
-      <item value="clerk" />
-      <item value="to Subscribe" />
-      <item value="event on subscribtion" />
-      <item value="has Pin Time Divider" />
-      <item value="loop Query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="371" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
