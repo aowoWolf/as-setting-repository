@@ -48,6 +48,8 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="obtain Lineup" />
+      <item value="obtain Line Up" />
       <item value="Conflicting declarations: value-parameter minutes: String, value-parameter minutes: String" />
       <item value="左脚" />
       <item value="Goal Keeper" />
@@ -96,13 +98,11 @@
       <item value="event on subscribtion" />
       <item value="has Pin Time Divider" />
       <item value="loop Query" />
-      <item value="Multiplies this value by the other value." />
-      <item value="Returns this value incremented by one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="365" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
