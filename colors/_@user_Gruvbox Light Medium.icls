@@ -4,13 +4,14 @@
     <property name="created">2023-04-07T21:43:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-05-21T17:01:15</property>
+    <property name="modified">2023-06-18T19:01:11</property>
     <property name="originalScheme">Gruvbox Light Medium</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b8bb26" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
@@ -61,7 +62,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b57614" />
@@ -592,22 +593,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fcf699" />
+        <option name="BACKGROUND" value="e6e3d5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="d1f6ae" />
+        <option name="BACKGROUND" value="dfeecd" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fccada" />
+        <option name="BACKGROUND" value="f1f1c9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="c0efd4" />
+        <option name="BACKGROUND" value="fde8c5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -700,7 +701,7 @@
         <option name="FOREGROUND" value="b57614" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
+    <option name="List/map to object conversion" baseAttributes="" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
@@ -1037,7 +1038,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Unresolved reference access" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="b57614" />
@@ -1066,7 +1067,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="76678" />
