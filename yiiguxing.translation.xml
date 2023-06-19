@@ -48,6 +48,9 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assit" />
+      <item value="助攻" />
+      <item value="Penalty Kick" />
       <item value="is Home Wrong" />
       <item value="rating" />
       <item value="get Rating Bg Color" />
@@ -95,19 +98,17 @@
       <item value="evaluate" />
       <item value="Draw" />
       <item value="Away" />
-      <item value="Away Score" />
-      <item value="is Finite" />
-      <item value="scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="379" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="INDONESIAN" value="3" />
         <entry key="ITALIAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SLOVAK" value="1" />
