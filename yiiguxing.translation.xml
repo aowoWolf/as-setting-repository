@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686623614066" />
+    <option name="lastTrimTime" value="1687154573578" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Home Wrong" />
       <item value="rating" />
       <item value="get Rating Bg Color" />
       <item value="Coach" />
@@ -97,12 +98,11 @@
       <item value="Away Score" />
       <item value="is Finite" />
       <item value="scheme" />
-      <item value="Get the minute of hour field value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="377" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
