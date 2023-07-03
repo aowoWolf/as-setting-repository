@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686623614066" />
+    <option name="lastTrimTime" value="1687154573578" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,46 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ambiguous" />
+      <item value="Assit" />
+      <item value="助攻" />
+      <item value="Penalty Kick" />
+      <item value="is Home Wrong" />
+      <item value="rating" />
+      <item value="get Rating Bg Color" />
+      <item value="Coach" />
+      <item value="riv oval" />
+      <item value="Lineup Substitution Widget" />
+      <item value="Lineup Sub Item" />
+      <item value="Tentacled Incident" />
+      <item value="Purple Incident" />
+      <item value="Injuried" />
+      <item value="受伤" />
+      <item value="Suspended" />
+      <item value="停赛" />
+      <item value="obtain Lineup" />
+      <item value="obtain Line Up" />
+      <item value="Conflicting declarations: value-parameter minutes: String, value-parameter minutes: String" />
+      <item value="左脚" />
+      <item value="Goal Keeper" />
+      <item value="守门员" />
+      <item value="Defender" />
+      <item value="后卫" />
+      <item value="中场" />
+      <item value="前锋" />
+      <item value="EDIUM" />
+      <item value="Signed" />
+      <item value="已签约" />
+      <item value="Cancelled" />
+      <item value="已解约" />
+      <item value="选秀" />
+      <item value="Retire" />
+      <item value="退役" />
+      <item value="转会" />
+      <item value="租借" />
+      <item value="is Even" />
+      <item value="Transfer List" />
+      <item value="child Aspect Ratio" />
       <item value="center Slice" />
       <item value="opaque" />
       <item value="business" />
@@ -58,58 +98,20 @@
       <item value="repositories Mode" />
       <item value="evaluate" />
       <item value="Draw" />
-      <item value="Away" />
-      <item value="Away Score" />
-      <item value="is Finite" />
-      <item value="scheme" />
-      <item value="Get the minute of hour field value." />
-      <item value="range Until" />
-      <item value="rem" />
-      <item value="gradle Plugin Portal" />
-      <item value="Tournament Detail Activity 2" />
-      <item value="is Granted Draw Overlays" />
-      <item value="check Debug Model" />
-      <item value="is Assignable From" />
-      <item value="clerk" />
-      <item value="to Subscribe" />
-      <item value="event on subscribtion" />
-      <item value="has Pin Time Divider" />
-      <item value="loop Query" />
-      <item value="Multiplies this value by the other value." />
-      <item value="Returns this value incremented by one." />
-      <item value="div" />
-      <item value="comparison" />
-      <item value="insert Data Once" />
-      <item value="wee" />
-      <item value="is Positive" />
-      <item value="render" />
-      <item value="minus Days" />
-      <item value="Returns a copy of this datetime with the time set to the start of the day. &lt;p&gt; The time will normally be midnight, as that is the earliest time on any given day. However, in some time zones when Daylight Savings Time starts, there is no midnight because time jumps from 11:59 to 01:00. This method handles that situation by returning 01:00 on that date. &lt;p&gt; This instance is immutable and unaffected by this method call. @return a copy of this datetime with the time set to the start of the day, not null" />
-      <item value="with Time At Start Of Day" />
-      <item value="color translate" />
-      <item value="Overload resolution ambiguity. All these functions match." />
-      <item value="scale" />
-      <item value="fit Width" />
-      <item value="Whether the constraint is expressed in a consistent manner." />
-      <item value="Whether there is exactly one size possible given these constraints." />
-      <item value="If you need some sizing information during build to decide which widgets to build, consider using a LayoutBuilder widget, which can tell you the layout constraints at a given location in the tree. See &lt;https:api.flutter.devflutterwidgetsLayoutBuilder-class.html&gt; for more details." />
-      <item value="The size of this render object has not yet been determined because the framework is still in the process of building widgets, which means the render tree for this frame has not yet been determined. The size getter should only be called from paint callbacks or interaction event handlers (e.g. gesture callbacks)." />
-      <item value="&lt;!-- The INTERNET permission is required for development. Specifically, the Flutter tool needs it to communicate with the running application to allow setting breakpoints, to provide hot reload, etc." />
-      <item value="modify Count" />
-      <item value="recovery catch panic" />
-      <item value="absorbing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="380" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
         <entry key="ITALIAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SLOVAK" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
