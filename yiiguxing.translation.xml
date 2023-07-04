@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Stack Fit" />
       <item value="Expert Detail Page" />
       <item value="ellipsis" />
       <item value="ambiguous" />
@@ -97,12 +98,11 @@
       <item value="Base Uni View Mixin" />
       <item value="Because wechat_assets_picker 8.5.0 requires SDK version &gt;=3.0.0 &lt;4.0.0 and no versions of wechat_assets_picker match &gt;8.5.0 &lt;9.0.0, wechat_assets_picker ^8.5.0 is forbidden. So, because kball_flutter_module depends on wechat_assets_picker ^8.5.0, version solving failed." />
       <item value="Mixture Event Manager" />
-      <item value="repositories Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="383" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
