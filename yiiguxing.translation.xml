@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687154573578" />
+    <option name="lastTrimTime" value="1688366421870" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -48,6 +48,16 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="results" />
+      <item value="register" />
+      <item value="Invalid value: Not in inclusive range" />
+      <item value="Package Detail Model" />
+      <item value="STATE IN PROGRESS IMMEDIATE SCROLL" />
+      <item value="extend Body Behind App Bar" />
+      <item value="opacity" />
+      <item value="Stack Fit" />
+      <item value="Expert Detail Page" />
+      <item value="ellipsis" />
       <item value="ambiguous" />
       <item value="Assit" />
       <item value="助攻" />
@@ -88,21 +98,11 @@
       <item value="is Even" />
       <item value="Transfer List" />
       <item value="child Aspect Ratio" />
-      <item value="center Slice" />
-      <item value="opaque" />
-      <item value="business" />
-      <item value="non Virtual" />
-      <item value="Base Uni View Mixin" />
-      <item value="Because wechat_assets_picker 8.5.0 requires SDK version &gt;=3.0.0 &lt;4.0.0 and no versions of wechat_assets_picker match &gt;8.5.0 &lt;9.0.0, wechat_assets_picker ^8.5.0 is forbidden. So, because kball_flutter_module depends on wechat_assets_picker ^8.5.0, version solving failed." />
-      <item value="Mixture Event Manager" />
-      <item value="repositories Mode" />
-      <item value="evaluate" />
-      <item value="Draw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="390" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
