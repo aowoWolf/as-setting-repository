@@ -48,6 +48,11 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Whether the generator should include fields with `null` values in the serialized output. If `true`, the generator should include the field in the serialized output, even if the value is `null`. The default value, `null`, indicates that the behavior should be acquired from the [JsonSerializable.includeIfNull] annotation on the enclosing class. If [disallowNullValue] is `true`, this value is treated as `false` to ensure compatibility between `toJson` and `fromJson`. If both [includeIfNull] and [disallowNullValue] are set to `true` on the same field, an exception will be thrown during code generation." />
+      <item value="include If Null" />
+      <item value="disallow" />
+      <item value="If [disallowNullValue] is `true`, [includeIfNull] will be treated as `false` to ensure compatibility between `toJson` and `fromJson`. If both [includeIfNull] and [disallowNullValue] are set to `true` on the same field, an exception will be thrown during code generation." />
+      <item value="disallow Null Value" />
       <item value="results" />
       <item value="register" />
       <item value="Invalid value: Not in inclusive range" />
@@ -93,16 +98,11 @@
       <item value="选秀" />
       <item value="Retire" />
       <item value="退役" />
-      <item value="转会" />
-      <item value="租借" />
-      <item value="is Even" />
-      <item value="Transfer List" />
-      <item value="child Aspect Ratio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="395" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
