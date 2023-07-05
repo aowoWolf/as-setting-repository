@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="results" />
       <item value="register" />
       <item value="Invalid value: Not in inclusive range" />
       <item value="Package Detail Model" />
@@ -97,12 +98,11 @@
       <item value="is Even" />
       <item value="Transfer List" />
       <item value="child Aspect Ratio" />
-      <item value="center Slice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="390" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
