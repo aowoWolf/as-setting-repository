@@ -48,6 +48,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Package Detail Model" />
       <item value="STATE IN PROGRESS IMMEDIATE SCROLL" />
       <item value="extend Body Behind App Bar" />
       <item value="opacity" />
@@ -97,12 +98,11 @@
       <item value="center Slice" />
       <item value="opaque" />
       <item value="business" />
-      <item value="non Virtual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="387" />
         <entry key="FINNISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="2" />
