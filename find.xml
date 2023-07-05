@@ -13,8 +13,8 @@
     <mask>*.pro</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.dart</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
