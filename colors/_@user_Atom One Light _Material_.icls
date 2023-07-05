@@ -4,7 +4,7 @@
     <property name="created">2023-04-07T14:21:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.11</property>
-    <property name="modified">2023-07-05T22:30:28</property>
+    <property name="modified">2023-07-05T22:40:27</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1167,22 +1167,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fcfcba" />
+        <option name="BACKGROUND" value="e6e8f4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="d0fcd0" />
+        <option name="BACKGROUND" value="def4ec" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fcd0fc" />
+        <option name="BACKGROUND" value="f0f6e7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="bff5f5" />
+        <option name="BACKGROUND" value="fcede3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -3722,7 +3722,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3750,7 +3750,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="e4564a" />

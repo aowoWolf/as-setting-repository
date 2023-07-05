@@ -3,7 +3,7 @@
     <property name="created">2022-06-24T23:42:52</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2023-07-05T22:30:28</property>
+    <property name="modified">2023-07-05T22:40:27</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -483,7 +483,7 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -496,7 +496,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_TAG_NAME" baseAttributes="" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -520,7 +520,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="5b5b21" />
+        <option name="BACKGROUND" value="545762" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
@@ -530,7 +530,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="345b35" />
+        <option name="BACKGROUND" value="4e615b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -540,7 +540,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="5b345c" />
+        <option name="BACKGROUND" value="5e6357" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -550,7 +550,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="255556" />
+        <option name="BACKGROUND" value="695b53" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -675,7 +675,7 @@
         <option name="BACKGROUND" value="153811" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="LESS_VARIABLE">
       <value />
     </option>
@@ -876,7 +876,7 @@
         <option name="FOREGROUND" value="fa3232" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="aaff" />
