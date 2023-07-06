@@ -1,37 +1,6 @@
 <application>
-  <component name="AppStorage">
-    <histories>
-      <item value="on Drawer Slide" />
-      <item value="buried" />
-      <item value="track Param List" />
-      <item value="content Padding Left" />
-      <item value="card Prevent Corner Overlap" />
-      <item value="game Over" />
-      <item value="UNIFIED TEST PLATFORM" />
-      <item value="is Confidential" />
-      <item value="TOUCH SLOP SENSITIVITY" />
-      <item value="pass Touch Through" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
-      </map>
-    </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1669103139252" />
-  </component>
-  <component name="Settings">
-    <option name="translator" value="YOUDAO" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="1c86340119331a92" />
-      </youdao-translate>
-    </option>
-  </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688366421870" />
+    <option name="lastTrimTime" value="1688622170575" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -43,77 +12,8 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="572" />
-    <option name="newTranslationDialogX" value="485" />
-    <option name="newTranslationDialogY" value="482" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Foot Ball Chart" />
-      <item value="fetch Foot Ball Chart" />
-      <item value="Whether the generator should include fields with `null` values in the serialized output. If `true`, the generator should include the field in the serialized output, even if the value is `null`. The default value, `null`, indicates that the behavior should be acquired from the [JsonSerializable.includeIfNull] annotation on the enclosing class. If [disallowNullValue] is `true`, this value is treated as `false` to ensure compatibility between `toJson` and `fromJson`. If both [includeIfNull] and [disallowNullValue] are set to `true` on the same field, an exception will be thrown during code generation." />
-      <item value="include If Null" />
-      <item value="disallow" />
-      <item value="If [disallowNullValue] is `true`, [includeIfNull] will be treated as `false` to ensure compatibility between `toJson` and `fromJson`. If both [includeIfNull] and [disallowNullValue] are set to `true` on the same field, an exception will be thrown during code generation." />
-      <item value="disallow Null Value" />
-      <item value="results" />
-      <item value="register" />
-      <item value="Invalid value: Not in inclusive range" />
-      <item value="Package Detail Model" />
-      <item value="STATE IN PROGRESS IMMEDIATE SCROLL" />
-      <item value="extend Body Behind App Bar" />
-      <item value="opacity" />
-      <item value="Stack Fit" />
-      <item value="Expert Detail Page" />
-      <item value="ellipsis" />
-      <item value="ambiguous" />
-      <item value="Assit" />
-      <item value="助攻" />
-      <item value="Penalty Kick" />
-      <item value="is Home Wrong" />
-      <item value="rating" />
-      <item value="get Rating Bg Color" />
-      <item value="Coach" />
-      <item value="riv oval" />
-      <item value="Lineup Substitution Widget" />
-      <item value="Lineup Sub Item" />
-      <item value="Tentacled Incident" />
-      <item value="Purple Incident" />
-      <item value="Injuried" />
-      <item value="受伤" />
-      <item value="Suspended" />
-      <item value="停赛" />
-      <item value="obtain Lineup" />
-      <item value="obtain Line Up" />
-      <item value="Conflicting declarations: value-parameter minutes: String, value-parameter minutes: String" />
-      <item value="左脚" />
-      <item value="Goal Keeper" />
-      <item value="守门员" />
-      <item value="Defender" />
-      <item value="后卫" />
-      <item value="中场" />
-      <item value="前锋" />
-      <item value="EDIUM" />
-      <item value="Signed" />
-      <item value="已签约" />
-      <item value="Cancelled" />
-      <item value="已解约" />
-      <item value="选秀" />
+      <item value="The relevant error-causing widget was:" />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="397" />
-        <entry key="FINNISH" value="1" />
-        <entry key="GERMAN" value="1" />
-        <entry key="HUNGARIAN" value="2" />
-        <entry key="INDONESIAN" value="3" />
-        <entry key="ITALIAN" value="1" />
-        <entry key="LATIN" value="1" />
-        <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="1" />
-        <entry key="SLOVAK" value="1" />
-        <entry key="TURKISH" value="1" />
-      </map>
-    </option>
   </component>
 </application>
