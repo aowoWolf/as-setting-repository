@@ -13,14 +13,17 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="horizontal Interval" />
+      <item value="dots Width" />
+      <item value="Dotted Border Widget" />
       <item value="smooth Scroll" />
       <item value="Horizontal viewport was given unbounded height." />
       <item value="The relevant error-causing widget was:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
