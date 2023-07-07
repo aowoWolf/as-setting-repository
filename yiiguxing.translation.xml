@@ -13,6 +13,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="第三节" />
+      <item value="第一节" />
+      <item value="延期" />
       <item value="异常" />
       <item value="Texts are showing with provided [interval]. If you don't provide anything, we try to find a suitable value to set as [interval] under the hood." />
       <item value="showing Indicators" />
@@ -29,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
