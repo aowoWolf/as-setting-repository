@@ -3,7 +3,7 @@
     <property name="created">2022-06-28T23:18:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2023-05-21T17:01:15</property>
+    <property name="modified">2023-07-05T22:40:27</property>
     <property name="originalScheme">Material dark-Theme</property>
   </metaInfo>
   <colors>
@@ -744,7 +744,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="60642e" />
+        <option name="BACKGROUND" value="595f6d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
@@ -754,7 +754,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="396441" />
+        <option name="BACKGROUND" value="526966" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -764,7 +764,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="603d68" />
+        <option name="BACKGROUND" value="636c62" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -774,7 +774,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2a5e62" />
+        <option name="BACKGROUND" value="6d645e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
