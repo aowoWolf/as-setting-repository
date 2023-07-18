@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="d2d059e2" />
-          </Key>
-        </key>
-        <name value="Xiaomi 21051182C" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="9889db354143355639" />
           </Key>
         </key>
         <name value="samsung SM-G9550" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="d2d059e2" />
+          </Key>
+        </key>
+        <name value="Xiaomi 21051182C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
