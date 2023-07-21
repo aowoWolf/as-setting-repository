@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="live Deatail" />
       <item value="tv Unlock Live" />
       <item value="is Even" />
       <item value="CI Compiler Count" />
@@ -40,8 +41,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
+        <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="23" />
+        <entry key="FINNISH" value="1" />
       </map>
     </option>
   </component>
