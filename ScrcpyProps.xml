@@ -2,7 +2,6 @@
   <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
     <option name="adbPath" value="C:\Users\11873\AppData\Local\Android\Sdk\platform-tools\adb.exe" />
     <option name="alwaysOnTop" value="true" />
-    <option name="borderless" value="true" />
     <option name="position" value="true" />
     <option name="positionHeight" value="1600" />
     <option name="positionX" value="1920" />
