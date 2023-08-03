@@ -8,6 +8,7 @@
     <option name="positionY" value="0" />
     <option name="scrcpyPath" value="C:\Program Files\scrcpy-win64-v1.24" />
     <option name="showTouches" value="true" />
+    <option name="turnScreenOff" value="true" />
     <option name="windowTitle" value="flutter demo2023-3-28" />
   </component>
 </application>
