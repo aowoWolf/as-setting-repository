@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Present" />
       <item value="as Sequence" />
       <item value="crypt" />
       <item value="crypt Key" />
@@ -60,8 +61,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="46" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
