@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="disposable Queue" />
       <item value="is Present" />
       <item value="as Sequence" />
       <item value="crypt" />
@@ -61,8 +62,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="47" />
         <entry key="FINNISH" value="1" />
       </map>
     </option>
