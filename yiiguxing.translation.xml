@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="one Shot" />
+      <item value="oneshot" />
       <item value="Unstart" />
       <item value="dwell Time" />
       <item value="track Browsing Time" />
@@ -61,14 +63,13 @@
       <item value="touch Tooltip Data" />
       <item value="draw Behind Everything" />
       <item value="horizontal Interval" />
-      <item value="dots Width" />
-      <item value="Dotted Border Widget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="55" />
         <entry key="FINNISH" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
