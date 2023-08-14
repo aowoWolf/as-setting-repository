@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691375974158" />
+    <option name="lastTrimTime" value="1691997430934" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Activity Translucent" />
       <item value="pending" />
       <item value="chunked(" />
       <item value="minus" />
@@ -62,13 +63,12 @@
       <item value="Texts are showing with provided [interval]. If you don't provide anything, we try to find a suitable value to set as [interval] under the hood." />
       <item value="showing Indicators" />
       <item value="line Bars Data" />
-      <item value="get Touched Spot Indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
+        <entry key="CHINESE" value="62" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
