@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="beat word:" />
       <item value="intercept Msg" />
       <item value="SHOW IMPLICIT" />
       <item value="Activity Translucent" />
@@ -62,13 +63,12 @@
       <item value="第一节" />
       <item value="延期" />
       <item value="异常" />
-      <item value="Texts are showing with provided [interval]. If you don't provide anything, we try to find a suitable value to set as [interval] under the hood." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
+        <entry key="CHINESE" value="65" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
