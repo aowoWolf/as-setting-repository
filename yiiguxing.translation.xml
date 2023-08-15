@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="constraints" />
       <item value="beat word:" />
       <item value="intercept Msg" />
       <item value="SHOW IMPLICIT" />
@@ -62,13 +63,12 @@
       <item value="第三节" />
       <item value="第一节" />
       <item value="延期" />
-      <item value="异常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
