@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Interested For Interactions" />
+      <item value="Holds information about touch response in the [LineChart]. You can override [LineTouchData.touchCallback] to handle touch events, it gives you a [LineTouchResponse] and you can do whatever you want." />
       <item value="constraints" />
       <item value="beat word:" />
       <item value="intercept Msg" />
@@ -61,14 +63,12 @@
       <item value="pow" />
       <item value="REWARD" />
       <item value="第三节" />
-      <item value="第一节" />
-      <item value="延期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="68" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="65" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
