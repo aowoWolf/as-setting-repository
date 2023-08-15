@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Distance threshold to handle the touch event." />
+      <item value="distance Calculator" />
       <item value="is Interested For Interactions" />
       <item value="Holds information about touch response in the [LineChart]. You can override [LineTouchData.touchCallback] to handle touch events, it gives you a [LineTouchResponse] and you can do whatever you want." />
       <item value="constraints" />
@@ -61,14 +63,12 @@
       <item value="populate" />
       <item value="ceil" />
       <item value="pow" />
-      <item value="REWARD" />
-      <item value="第三节" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
+        <entry key="CHINESE" value="70" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
