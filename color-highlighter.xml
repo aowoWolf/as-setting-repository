@@ -1,5 +1,9 @@
 <application>
   <component name="Color Highlighter Settings">
+    <option name="markdownEnabled" value="false" />
+    <option name="textEnabled" value="true" />
+    <option name="isTextEnabled" value="true" />
+    <option name="isMarkdownEnabled" value="false" />
     <option name="version" value="14.1.0" />
   </component>
 </application>
