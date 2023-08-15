@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="delta" />
+      <item value="delta X" />
       <item value="Distance threshold to handle the touch event." />
       <item value="distance Calculator" />
       <item value="is Interested For Interactions" />
@@ -61,14 +63,12 @@
       <item value="CI Compiler Count" />
       <item value="Soft Ref LRU Policy MS Per MB" />
       <item value="populate" />
-      <item value="ceil" />
-      <item value="pow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="73" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="70" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
