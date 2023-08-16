@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="@param flags Provides additional operating flags. Currently may be 0 or have the {@link InputMethodManagerSHOW_IMPLICIT} bit set." />
       <item value="delta" />
       <item value="delta X" />
       <item value="Distance threshold to handle the touch event." />
@@ -62,13 +63,12 @@
       <item value="is Even" />
       <item value="CI Compiler Count" />
       <item value="Soft Ref LRU Policy MS Per MB" />
-      <item value="populate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
+        <entry key="CHINESE" value="74" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
