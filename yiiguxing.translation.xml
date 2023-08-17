@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="INFO" />
+      <item value="VERBOSE" />
       <item value="Closure" />
       <item value="flavor Dimensions" />
       <item value="run Alignment" />
@@ -61,14 +63,12 @@
       <item value="Roll Back Msg" />
       <item value="Broadcast Binder" />
       <item value="dequeue" />
-      <item value="poll" />
-      <item value="peek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
+        <entry key="CHINESE" value="83" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="ENGLISH" value="80" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
