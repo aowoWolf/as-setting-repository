@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Priority constant for the println method; use Log.v." />
       <item value="Label" />
       <item value="Lable 1" />
       <item value="INFO" />
@@ -62,13 +63,12 @@
       <item value="Prediction" />
       <item value="iv Purchase Unlock" />
       <item value="Forbidden Msg" />
-      <item value="Roll Back Msg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
+        <entry key="CHINESE" value="86" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
