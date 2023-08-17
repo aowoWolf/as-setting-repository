@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Label" />
+      <item value="Lable 1" />
       <item value="INFO" />
       <item value="VERBOSE" />
       <item value="Closure" />
@@ -61,14 +63,12 @@
       <item value="iv Purchase Unlock" />
       <item value="Forbidden Msg" />
       <item value="Roll Back Msg" />
-      <item value="Broadcast Binder" />
-      <item value="dequeue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
+        <entry key="CHINESE" value="85" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
