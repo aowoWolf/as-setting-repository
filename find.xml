@@ -13,9 +13,9 @@
     <mask>*.pro</mask>
     <mask>*.java</mask>
     <mask>.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.dart</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
