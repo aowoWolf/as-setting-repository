@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
@@ -15,7 +16,7 @@
     <mask>.kt</mask>
     <mask>*.xml</mask>
     <mask>*.dart</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
