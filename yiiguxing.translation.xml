@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691997430934" />
+    <option name="lastTrimTime" value="1692584534734" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="show Purchase Unlock" />
       <item value="missing Dimension Strategy" />
       <item value="official" />
       <item value="Priority constant for the println method; use Log.v." />
@@ -62,13 +63,12 @@
       <item value="The horizontal line used to align the bottom of glyphs for alphabetic characters." />
       <item value="alphabetic" />
       <item value="KB Interact Message List Page" />
-      <item value="Prediction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
+        <entry key="CHINESE" value="89" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
