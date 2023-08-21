@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="only One Scroll In Body" />
       <item value="get Elapsed Time Minutes" />
       <item value="show Purchase Unlock" />
       <item value="missing Dimension Strategy" />
@@ -62,13 +63,12 @@
       <item value="show Purchase Live" />
       <item value="The horizontal line used to align ideographic characters." />
       <item value="The horizontal line used to align the bottom of glyphs for alphabetic characters." />
-      <item value="alphabetic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
+        <entry key="CHINESE" value="91" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="FINNISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
