@@ -3,7 +3,7 @@
     <property name="created">2023-07-18T13:41:57</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.2.1.20</property>
-    <property name="modified">2023-07-19T19:07:23</property>
+    <property name="modified">2023-08-23T22:31:08</property>
     <property name="originalScheme">Monokai Pro (Filter Ristretto)</property>
   </metaInfo>
   <colors>
@@ -1034,22 +1034,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="6c672d" />
+        <option name="BACKGROUND" value="64626d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="456740" />
+        <option name="BACKGROUND" value="5e6d66" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="6c4067" />
+        <option name="BACKGROUND" value="6e6f61" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="376262" />
+        <option name="BACKGROUND" value="79675e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">

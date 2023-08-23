@@ -3,7 +3,7 @@
     <property name="created">2023-07-18T13:41:57</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.2.1.20</property>
-    <property name="modified">2023-07-19T19:07:22</property>
+    <property name="modified">2023-08-23T22:31:08</property>
     <property name="originalScheme">Hiberbee Dark</property>
   </metaInfo>
   <colors>
@@ -1382,25 +1382,25 @@
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="5e5d22" />
+        <option name="BACKGROUND" value="575962" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="375d35" />
+        <option name="BACKGROUND" value="50635c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="5e365c" />
+        <option name="BACKGROUND" value="616557" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="285757" />
+        <option name="BACKGROUND" value="6b5d54" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
