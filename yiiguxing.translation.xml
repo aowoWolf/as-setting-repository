@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="combo" />
       <item value="digraph" />
       <item value="infinite Hit Over" />
       <item value="only One Scroll In Body" />
@@ -62,13 +63,12 @@
       <item value="crypt" />
       <item value="crypt Key" />
       <item value="Purchase" />
-      <item value="show Purchase Live" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
+        <entry key="CHINESE" value="94" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="FINNISH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
