@@ -3,7 +3,7 @@
     <property name="created">2022-06-24T23:42:52</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2023-07-19T00:29:42</property>
+    <property name="modified">2023-07-19T19:07:23</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -253,8 +253,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="cccccc" />
@@ -520,7 +520,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="545762" />
+        <option name="BACKGROUND" value="5b5b21" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
@@ -530,7 +530,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="4e615b" />
+        <option name="BACKGROUND" value="345b35" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -540,7 +540,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="5e6357" />
+        <option name="BACKGROUND" value="5b345c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -550,7 +550,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="695b53" />
+        <option name="BACKGROUND" value="255556" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -757,7 +757,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value />
     </option>

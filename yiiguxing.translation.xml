@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689659741055" />
+    <option name="lastTrimTime" value="1692584534734" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -13,32 +13,65 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="shrink" />
-      <item value="populate" />
-      <item value="ceil" />
-      <item value="pow" />
-      <item value="REWARD" />
-      <item value="第三节" />
-      <item value="第一节" />
-      <item value="延期" />
-      <item value="异常" />
-      <item value="Texts are showing with provided [interval]. If you don't provide anything, we try to find a suitable value to set as [interval] under the hood." />
-      <item value="showing Indicators" />
-      <item value="line Bars Data" />
-      <item value="get Touched Spot Indicator" />
-      <item value="touch Tooltip Data" />
-      <item value="draw Behind Everything" />
-      <item value="horizontal Interval" />
-      <item value="dots Width" />
-      <item value="Dotted Border Widget" />
-      <item value="smooth Scroll" />
-      <item value="Horizontal viewport was given unbounded height." />
-      <item value="The relevant error-causing widget was:" />
+      <item value="combo" />
+      <item value="digraph" />
+      <item value="infinite Hit Over" />
+      <item value="only One Scroll In Body" />
+      <item value="get Elapsed Time Minutes" />
+      <item value="show Purchase Unlock" />
+      <item value="missing Dimension Strategy" />
+      <item value="official" />
+      <item value="Priority constant for the println method; use Log.v." />
+      <item value="Label" />
+      <item value="Lable 1" />
+      <item value="INFO" />
+      <item value="VERBOSE" />
+      <item value="Closure" />
+      <item value="flavor Dimensions" />
+      <item value="run Alignment" />
+      <item value="forbid track" />
+      <item value="&lt;!-- Specify the auto-size step size if &lt;code&gt;autoSizeTextType&lt;code&gt; is set to &lt;code&gt;uniform&lt;code&gt;. The default is 1px. Overwrites &lt;code&gt;autoSizePresetSizes&lt;code&gt; if set. --&gt;" />
+      <item value="&lt;!-- Uniform horizontal and vertical text size scaling to fit within the container. --&gt;" />
+      <item value="auto Size Preset Sizes" />
+      <item value="@param flags Provides additional operating flags. Currently may be 0 or have the {@link InputMethodManagerSHOW_IMPLICIT} bit set." />
+      <item value="delta" />
+      <item value="delta X" />
+      <item value="Distance threshold to handle the touch event." />
+      <item value="distance Calculator" />
+      <item value="is Interested For Interactions" />
+      <item value="Holds information about touch response in the [LineChart]. You can override [LineTouchData.touchCallback] to handle touch events, it gives you a [LineTouchResponse] and you can do whatever you want." />
+      <item value="constraints" />
+      <item value="beat word:" />
+      <item value="intercept Msg" />
+      <item value="SHOW IMPLICIT" />
+      <item value="Activity Translucent" />
+      <item value="pending" />
+      <item value="chunked(" />
+      <item value="minus" />
+      <item value="Recharge Activity" />
+      <item value="one Shot" />
+      <item value="oneshot" />
+      <item value="Unstart" />
+      <item value="dwell Time" />
+      <item value="track Browsing Time" />
+      <item value="track Click" />
+      <item value="SENSORS DATA TRACK" />
+      <item value="remove Prefix" />
+      <item value="disposable Queue" />
+      <item value="is Present" />
+      <item value="as Sequence" />
+      <item value="crypt" />
+      <item value="crypt Key" />
+      <item value="Purchase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="94" />
+        <entry key="DANISH" value="1" />
+        <entry key="ENGLISH" value="90" />
+        <entry key="FINNISH" value="1" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
