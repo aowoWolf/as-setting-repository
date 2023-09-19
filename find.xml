@@ -12,10 +12,9 @@
     <mask>*.json</mask>
     <mask>*.pro</mask>
     <mask>*.java</mask>
-    <mask>.kt</mask>
-    <mask>*.dart</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
+    <mask>*.dart</mask>
   </component>
 </application>

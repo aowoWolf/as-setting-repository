@@ -1,12 +1,7 @@
 <application>
   <component name="DokiDokiThemeConfig">
-    <option name="customFontSize" value="14" />
-    <option name="dokiBackground" value="true" />
-    <option name="emptyFrameBackground" value="false" />
     <option name="firstTime" value="false" />
-    <option name="globalFontSize" value="true" />
-    <option name="notificationOpacity" value="58" />
-    <option name="userId" value="3e53025c-14bb-4624-ae01-bb33b884cd86" />
-    <option name="version" value="88.3-1.8.0" />
+    <option name="userId" value="1ef142c9-ccf6-45d6-833f-aed1e53bdfed" />
+    <option name="version" value="88.5-1.11.0" />
   </component>
 </application>

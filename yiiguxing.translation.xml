@@ -1,6 +1,37 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="on Drawer Slide" />
+      <item value="buried" />
+      <item value="track Param List" />
+      <item value="content Padding Left" />
+      <item value="card Prevent Corner Overlap" />
+      <item value="game Over" />
+      <item value="UNIFIED TEST PLATFORM" />
+      <item value="is Confidential" />
+      <item value="TOUCH SLOP SENSITIVITY" />
+      <item value="pass Touch Through" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="6" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669103139252" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="1c86340119331a92" />
+      </youdao-translate>
+    </option>
+  </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692584534734" />
+    <option name="lastTrimTime" value="1688366421870" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -12,67 +43,76 @@
     </option>
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogX" value="485" />
+    <option name="newTranslationDialogY" value="482" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="union" />
-      <item value="smartcase" />
-      <item value="combo" />
-      <item value="digraph" />
-      <item value="infinite Hit Over" />
-      <item value="only One Scroll In Body" />
-      <item value="get Elapsed Time Minutes" />
-      <item value="show Purchase Unlock" />
-      <item value="missing Dimension Strategy" />
-      <item value="official" />
-      <item value="Priority constant for the println method; use Log.v." />
-      <item value="Label" />
-      <item value="Lable 1" />
-      <item value="INFO" />
-      <item value="VERBOSE" />
-      <item value="Closure" />
-      <item value="flavor Dimensions" />
-      <item value="run Alignment" />
-      <item value="forbid track" />
-      <item value="&lt;!-- Specify the auto-size step size if &lt;code&gt;autoSizeTextType&lt;code&gt; is set to &lt;code&gt;uniform&lt;code&gt;. The default is 1px. Overwrites &lt;code&gt;autoSizePresetSizes&lt;code&gt; if set. --&gt;" />
-      <item value="&lt;!-- Uniform horizontal and vertical text size scaling to fit within the container. --&gt;" />
-      <item value="auto Size Preset Sizes" />
-      <item value="@param flags Provides additional operating flags. Currently may be 0 or have the {@link InputMethodManagerSHOW_IMPLICIT} bit set." />
-      <item value="delta" />
-      <item value="delta X" />
-      <item value="Distance threshold to handle the touch event." />
-      <item value="distance Calculator" />
-      <item value="is Interested For Interactions" />
-      <item value="Holds information about touch response in the [LineChart]. You can override [LineTouchData.touchCallback] to handle touch events, it gives you a [LineTouchResponse] and you can do whatever you want." />
-      <item value="constraints" />
-      <item value="beat word:" />
-      <item value="intercept Msg" />
-      <item value="SHOW IMPLICIT" />
-      <item value="Activity Translucent" />
-      <item value="pending" />
-      <item value="chunked(" />
-      <item value="minus" />
-      <item value="Recharge Activity" />
-      <item value="one Shot" />
-      <item value="oneshot" />
-      <item value="Unstart" />
-      <item value="dwell Time" />
-      <item value="track Browsing Time" />
-      <item value="track Click" />
-      <item value="SENSORS DATA TRACK" />
-      <item value="remove Prefix" />
-      <item value="disposable Queue" />
-      <item value="is Present" />
-      <item value="as Sequence" />
-      <item value="crypt" />
+      <item value="results" />
+      <item value="register" />
+      <item value="Invalid value: Not in inclusive range" />
+      <item value="Package Detail Model" />
+      <item value="STATE IN PROGRESS IMMEDIATE SCROLL" />
+      <item value="extend Body Behind App Bar" />
+      <item value="opacity" />
+      <item value="Stack Fit" />
+      <item value="Expert Detail Page" />
+      <item value="ellipsis" />
+      <item value="ambiguous" />
+      <item value="Assit" />
+      <item value="助攻" />
+      <item value="Penalty Kick" />
+      <item value="is Home Wrong" />
+      <item value="rating" />
+      <item value="get Rating Bg Color" />
+      <item value="Coach" />
+      <item value="riv oval" />
+      <item value="Lineup Substitution Widget" />
+      <item value="Lineup Sub Item" />
+      <item value="Tentacled Incident" />
+      <item value="Purple Incident" />
+      <item value="Injuried" />
+      <item value="受伤" />
+      <item value="Suspended" />
+      <item value="停赛" />
+      <item value="obtain Lineup" />
+      <item value="obtain Line Up" />
+      <item value="Conflicting declarations: value-parameter minutes: String, value-parameter minutes: String" />
+      <item value="左脚" />
+      <item value="Goal Keeper" />
+      <item value="守门员" />
+      <item value="Defender" />
+      <item value="后卫" />
+      <item value="中场" />
+      <item value="前锋" />
+      <item value="EDIUM" />
+      <item value="Signed" />
+      <item value="已签约" />
+      <item value="Cancelled" />
+      <item value="已解约" />
+      <item value="选秀" />
+      <item value="Retire" />
+      <item value="退役" />
+      <item value="转会" />
+      <item value="租借" />
+      <item value="is Even" />
+      <item value="Transfer List" />
+      <item value="child Aspect Ratio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="390" />
         <entry key="FINNISH" value="1" />
-        <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="HUNGARIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="SLOVAK" value="1" />
+        <entry key="TURKISH" value="1" />
       </map>
     </option>
   </component>
