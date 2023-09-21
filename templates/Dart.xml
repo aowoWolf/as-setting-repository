@@ -1,0 +1,20 @@
+<templateSet group="Dart">
+  <template name="edfo" value="// &lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;$DESC$&quot;&gt;&#10;$END$&#10;// &lt;/editor-fold&gt;&#10;" description="comment4Fold" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="Stand" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="sgt" value="//私有构造函数&#10;$CLASS_NAME$._();&#10;&#10;//保存单例对象&#10;static final $CLASS_NAME$ _singleton = $CLASS_NAME$._();&#10;&#10;//工厂构造函数&#10;factory $CLASS_NAME$()=&gt; _singleton;&#10;" description="单例工厂模式" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="dartClassName" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="sgtc" value="class $CLASS_NAME$ {&#10;  //私有构造函数&#10;  $CLASS_NAME$._();&#10;&#10;  //保存单例对象&#10;  static final $CLASS_NAME$ _singleton = $CLASS_NAME$._();&#10;&#10;  //工厂构造函数&#10;  factory $CLASS_NAME$()=&gt; _singleton;&#10;}&#10;" description="完整单例工厂模式" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

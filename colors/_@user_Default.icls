@@ -1,0 +1,87 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2022-06-24T23:42:52</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2021.1.1.23</property>
+    <property name="modified">2023-07-05T22:30:28</property>
+    <property name="originalScheme">Default</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="ffffbe" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="d3ffd3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="ffd3ff" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="c3f8f8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="ffe2e0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffd7da" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="c29494" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

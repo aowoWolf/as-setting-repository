@@ -1,0 +1,13 @@
+<application>
+  <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
+    <option name="adbPath" value="C:\Users\11873\AppData\Local\Android\Sdk\platform-tools\adb.exe" />
+    <option name="borderless" value="true" />
+    <option name="position" value="true" />
+    <option name="positionHeight" value="1600" />
+    <option name="positionX" value="1920" />
+    <option name="positionY" value="0" />
+    <option name="scrcpyPath" value="C:\Program Files\scrcpy-win64-v1.24" />
+    <option name="showTouches" value="true" />
+    <option name="windowTitle" value="flutter demo2023-3-28" />
+  </component>
+</application>
